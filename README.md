@@ -1,3 +1,4 @@
+<img src="imagens/mascote.png" align="right" width="300">
 # MYMAKER IDE - alpha 0.1
 
 **MYMAKER IDE** é um ambiente de programação visual 100% online, criado com tecnologias livres, para ensinar conceitos básicos de programação a crianças do Ensino Fundamental I. A plataforma integra a Robótica Educacional, permitindo a criação, simulação e execução de experimentos de forma remota ou local.
