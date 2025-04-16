@@ -5,7 +5,7 @@
 
 
 
-## 🚀 Funcionalidades Principais
+🚀 Funcionalidades Principais
 
 - Programação em blocos com base em [Blockly](https://developers.google.com/blockly)
 - Interface amigável e adaptada para crianças
