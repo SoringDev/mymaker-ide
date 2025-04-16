@@ -15,8 +15,6 @@
 <br/>
 -> Compartilhamento de projetos
 <br/>
--> Acessibilidade e inclusão (alto contraste, leitura em voz alta)
-<br/>
 
 ## 🧱 Tecnologias Utilizadas
 
