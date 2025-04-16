@@ -50,7 +50,8 @@ Alunos do Ensino Fundamental I e professores interessados em introduzir lógica 
 ## 💡 Objetivo
 
 Despertar o interesse por tecnologia desde cedo, promovendo o aprendizado criativo com ferramentas intuitivas e acessíveis.
+<br/>
+<br/>
 
-> Feito com ❤️ para transformar educação em uma experiência criativa.
-> ---
-> © 2025 [IFNMG - Campus Almenara](https://www.ifnmg.edu.br/almenara). Todos os direitos reservados.
+### Feito com ❤️ para transformar educação em uma experiência criativa.
+© 2025 [IFNMG - Campus Almenara](https://www.ifnmg.edu.br/almenara). Todos os direitos reservados.
