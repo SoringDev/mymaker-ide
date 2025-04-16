@@ -3,8 +3,6 @@
 
 **MYMAKER IDE** é um ambiente de programação visual 100% online, criado com tecnologias livres, para ensinar conceitos básicos de programação a crianças do Ensino Fundamental I. A plataforma integra a Robótica Educacional, permitindo a criação, simulação e execução de experimentos de forma remota ou local.
 
-**⚙ Funcionalidades**
-<br/>
 -> Programação em blocos com base em [Blockly](https://developers.google.com/blockly)
 <br/>
 -> Interface amigável e adaptada para crianças
